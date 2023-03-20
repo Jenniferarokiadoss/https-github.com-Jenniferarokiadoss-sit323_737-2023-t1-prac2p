@@ -1,11 +1,13 @@
-var express = require('express')
-var app = express()
+const express = require('express');
+const app = express();
 
 
-//process.cwd() method is used in Node.js process's active working directory.
+//process.cwd() method is used in Node.js process's active working directory .
+
 //Rerfernce from https://www.youtube.com/watch?v=ObikkECrapg
+//https://www.geeksforgeeks.org/node-js-process-cwd-method/
 app.get('/', (req, res) => {
-  res.sendFile( path.join(process.cwd() ,  '/index.html'));
+  res.sendFile( __dirname +  '/index.html');
 });
 
 app.listen(3030, () => {
