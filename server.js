@@ -1,5 +1,6 @@
-const express = require('express');
-const app = express();
+var express = require('express');
+var app = express();
+
 
 
 //__dirname an environment variable that displays 
@@ -11,4 +12,4 @@ app.get('/', (req, res) => {
 });
 
 //list to a particular port
-app.listen(3000)
+app.listen(3000);
