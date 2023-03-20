@@ -1,7 +1,5 @@
-var express = require('express');
-var app = express();
-
-
+var express = require('express')
+var app = express()
 
 //__dirname an environment variable that displays 
 //the full path to the directory where the active file is located. .
@@ -12,4 +10,4 @@ app.get('/', (req, res) => {
 });
 
 //list to a particular port
-app.listen(3000);
+app.listen(3000)
