@@ -4,4 +4,3 @@
 
 ![alt text](https://drive.google.com/file/d/1f-SU_tUlVpUTp2-pSR64b4wG0K9HC692/view?usp=sharing)
 
-<img src="https://drive.google.com/file/d/1f-SU_tUlVpUTp2-pSR64b4wG0K9HC692/view?usp=sharing" alt="Alt text" title="Optional title">
