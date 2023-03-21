@@ -2,5 +2,5 @@
 
 # output
 
-![image](https://user-images.githubusercontent.com/79319500/183573090-627d837d-5bef-4675-8385-3469b8aa5fe2.png)
+![image](https://drive.google.com/file/d/1f-SU_tUlVpUTp2-pSR64b4wG0K9HC692/view?usp=sharing)
 
