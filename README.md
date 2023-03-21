@@ -2,5 +2,5 @@
 
 # output
 
-![image](https://drive.google.com/file/d/1f-SU_tUlVpUTp2-pSR64b4wG0K9HC692/view?usp=sharing)
+[output](https://drive.google.com/file/d/1f-SU_tUlVpUTp2-pSR64b4wG0K9HC692/view?usp=sharing)
 
