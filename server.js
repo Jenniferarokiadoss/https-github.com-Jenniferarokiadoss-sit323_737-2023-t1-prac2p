@@ -14,5 +14,5 @@ app.get('/', (req, res) => {
 });
 
 app.listen(3050, () => {
-  console.log('Server listening on port 3030');
+  console.log('Server listening on port 3050');
 });
